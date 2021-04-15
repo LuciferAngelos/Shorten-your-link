@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoURI": "mongodb+srv://TestAccount:Testadm123@cluster0.s9dam.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "you can do something",
+    "baseUrl": "http://localhost:5000"
+}
